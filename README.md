@@ -11,7 +11,8 @@ This project builds the **Hertzsprung–Russell (HR) diagram** from a random Gai
 
 - **MS** — Main Sequence  
 - **RG** — Red Giants  
-- **WD** — White Dwarfs  
+- **WD** — White Dwarfs
+  
 ![HR Diagram](reports/figures/hr_scatter.png)
 ![RF Confusion Matrix](reports/figures/confusion_rf.png)
 
