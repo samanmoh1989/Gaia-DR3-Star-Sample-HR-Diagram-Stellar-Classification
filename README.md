@@ -118,5 +118,9 @@ notebooks/Gaia DR3 Star Sample.ipynb
 
 ## 🙏 Acknowledgements
 
-- **ESA Gaia** mission & **Gaia DR3** archive.  
+- **ESA Gaia** mission & **Gaia DR3** archive.
+- ## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 - `astroquery`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`.
