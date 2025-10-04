@@ -2,7 +2,6 @@
 
 **Author:** Saman Mohammadi  
 **Dataset:** ESA **Gaia DR3** (random sample via ADQL / astroquery)  
-**License:** MIT (or your choice)
 
 ---
 
@@ -13,6 +12,8 @@ This project builds the **Hertzsprung–Russell (HR) diagram** from a random Gai
 - **MS** — Main Sequence  
 - **RG** — Red Giants  
 - **WD** — White Dwarfs  
+![HR Diagram](reports/figures/hr_scatter.png)
+![RF Confusion Matrix](reports/figures/confusion_rf.png)
 
 Pipeline covered: **EDA → Feature Engineering → Modeling → Evaluation → Packaging** (portfolio-ready).
 
