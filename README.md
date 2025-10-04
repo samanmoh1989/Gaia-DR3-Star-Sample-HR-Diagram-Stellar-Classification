@@ -1,6 +1,6 @@
 # Gaia DR3 Star Sample — HR Diagram & Stellar Classification
 
-**Author:** Your Name  
+**Author:** Saman Mohammadi  
 **Dataset:** ESA **Gaia DR3** (random sample via ADQL / astroquery)  
 **License:** MIT (or your choice)
 
